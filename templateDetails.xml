@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>vtikhomirov</name>
+	<creationDate>02/23/11</creationDate>
+	<author>Sergey Mezentsev</author>
+	<authorEmail>thebits@ya.ru</authorEmail>
+	<authorUrl>http://thebits.ya.ru</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL</license>
+	<version>1.0</version>
+	<description>Viktor Tikhomirov template</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>images/arrow.png</filename>
+		<filename>images/index.html</filename>
+		<filename>css/index.html</filename>
+		<filename>css/default.css</filename>
+	</files>
+	<positions>
+		<position>left</position>
+		<position>right</position>
+		<position>topmenu</position>
+	</positions>
+</install>
